@@ -1,0 +1,7 @@
+conda create -n audiofeed python=3.11 -y
+conda activate audiofeed
+pip install PyQt6
+
+
+conda install pyaudio
+conda install numpy

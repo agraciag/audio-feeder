@@ -1,0 +1,14 @@
+Listado de rutas de carpetas
+El número de serie del volumen es 0AAA-85AB
+D:.
+    AudioFeeder.py
+    audio_listener.py
+    instrucciones.txt
+    project-readme.md
+    receiver_app.py
+    streamer_gui.py
+    tree.txt
+    vlc_streamer.py
+    
+No existe ninguna subcarpeta 
+
